@@ -7,7 +7,6 @@ Computation and System Engineer / Odoo Enthusiast
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [oky.capriatto@gmail.com](mailto:oky.capriatto@gmail.com)
-* 🚀  I'm currently working on [LOGYCA](http://logyca.com)
 * 🧠  I'm learning ReactJS
 * ⚡  I like to play guitar and trade in financial markets
 
