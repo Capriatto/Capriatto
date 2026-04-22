@@ -8,7 +8,7 @@ Computation and System Engineer / Odoo Enthusiast
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [oky.capriatto@gmail.com](mailto:oky.capriatto@gmail.com)
-* 🧠  I'm learning ReactJS
+* 🧠  Right now working on: AML/CTF complience system that involves an custom Odoo module for (contacts), a middleware (API) for massive validations and a web application for Athena (Data Lake) validations and excel validations.
 * ⚡  I like to play guitar and trade in financial markets
 
 <a href="https://www.twitter.com/oky_capriatto" target="_blank" rel="noreferrer"><img
