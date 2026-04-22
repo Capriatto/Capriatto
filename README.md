@@ -3,7 +3,8 @@ Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e32596
 
 Computation and System Engineer / Odoo Enthusiast
 -------------------------------------------------
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBpcmJ5YjR6MHNxY2FodDlxNjhhbGVnMHAwaWZhOHpwYTRkaXhuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" alt="Coder GIF" width="500">
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [oky.capriatto@gmail.com](mailto:oky.capriatto@gmail.com)
